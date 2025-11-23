@@ -30,9 +30,9 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
             className="flex items-center group"
           >
             <img
-              src="/Screenshot 2025-11-20 004018.png"
+              src="/Screenshot 2025-11-20 004018 copy.png"
               alt="FixNaro Logo"
-              className="h-12 w-auto object-contain"
+              className="h-10 w-auto object-contain"
             />
           </button>
 
