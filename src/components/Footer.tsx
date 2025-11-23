@@ -12,7 +12,7 @@ export default function Footer({ onNavigate }: FooterProps) {
           <div>
             <div className="mb-4 bg-white inline-block px-4 py-3 rounded-lg">
               <img
-                src="/Screenshot 2025-11-20 004018 copy.png"
+                src="/logo.png"
                 alt="FixNaro Logo"
                 className="h-8 w-auto object-contain"
               />
